@@ -1,0 +1,12 @@
+ar/com/sga/datos/UserImpl.class
+ar/com/sga/web/ConfigBean.class
+ar/com/sga/interfac/PersonServiceLocal.class
+ar/com/sga/web/PersonaBean.class
+ar/com/sga/datos/PersonaDao.class
+ar/com/sga/domain/Usuario.class
+ar/com/sga/interfac/UserServiceImpl.class
+ar/com/sga/datos/PersonaDaoImpl.class
+ar/com/sga/datos/UserDao.class
+ar/com/sga/interfac/PersonServiceImpl.class
+ar/com/sga/domain/Persona.class
+ar/com/sga/interfac/UserServiceLocal.class

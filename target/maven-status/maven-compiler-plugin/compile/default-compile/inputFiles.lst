@@ -1,0 +1,12 @@
+/home/augusto-occ/NetBeansProjects/javaEE/ArquitecturaCompleta/src/main/java/ar/com/sga/domain/Usuario.java
+/home/augusto-occ/NetBeansProjects/javaEE/ArquitecturaCompleta/src/main/java/ar/com/sga/interfac/PersonServiceLocal.java
+/home/augusto-occ/NetBeansProjects/javaEE/ArquitecturaCompleta/src/main/java/ar/com/sga/datos/PersonaDao.java
+/home/augusto-occ/NetBeansProjects/javaEE/ArquitecturaCompleta/src/main/java/ar/com/sga/datos/PersonaDaoImpl.java
+/home/augusto-occ/NetBeansProjects/javaEE/ArquitecturaCompleta/src/main/java/ar/com/sga/datos/UserDao.java
+/home/augusto-occ/NetBeansProjects/javaEE/ArquitecturaCompleta/src/main/java/ar/com/sga/interfac/UserServiceLocal.java
+/home/augusto-occ/NetBeansProjects/javaEE/ArquitecturaCompleta/src/main/java/ar/com/sga/datos/UserImpl.java
+/home/augusto-occ/NetBeansProjects/javaEE/ArquitecturaCompleta/src/main/java/ar/com/sga/interfac/UserServiceImpl.java
+/home/augusto-occ/NetBeansProjects/javaEE/ArquitecturaCompleta/src/main/java/ar/com/sga/interfac/PersonServiceImpl.java
+/home/augusto-occ/NetBeansProjects/javaEE/ArquitecturaCompleta/src/main/java/ar/com/sga/web/PersonaBean.java
+/home/augusto-occ/NetBeansProjects/javaEE/ArquitecturaCompleta/src/main/java/ar/com/sga/web/ConfigBean.java
+/home/augusto-occ/NetBeansProjects/javaEE/ArquitecturaCompleta/src/main/java/ar/com/sga/domain/Persona.java
